@@ -33,7 +33,7 @@ func PerformGetRequest() {
 
 	// or
 
-	fmt.Println("The strings is : ", string(content))
+	// fmt.Println("The strings is : ", string(content))
 
 }
 
